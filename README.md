@@ -5,7 +5,10 @@
 🌱 Exploring Open Source | Learning Full-Stack Development  
 📍 London, UK
 
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/rafalsasinski/) | 📸 [Photography on Instagram](https://www.instagram.com/fearless_diamond/)
+## 📬 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalsasinski/)](https://www.linkedin.com/in/rafalsasinski/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:git@rafsasinski.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fearless_diamond/)](https://www.instagram.com/fearless_diamond/)
 
 ---
 
@@ -26,6 +29,16 @@
 
 ## 🌍 Languages
 English | Polish
+
+## 🧪 Current Side Projects
+
+## 🛤️ My Journey
+
+## 🛠️ Open Source Contributions
+
+## 🎸 Fun Fact
+I once created a fake CMS login page that displayed Blini Cat staring at pancakes when someone entered their credentials.  
+Security didn’t improve, but team morale did. 🥞🐱
 
 ---
 
