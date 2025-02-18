@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafal Sasinski!
 
-<!--
-**rafsasinski/rafsasinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Transitioning from Web Support & QA to Full-Stack JavaScript Development.  
+💻 Frontend Developer | JavaScript | React | Node.js  
+🌱 Exploring Open Source | Learning Full-Stack Development  
+📍 London, UK
 
-Here are some ideas to get you started:
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/rafalsasinski/) | 📸 [Photography on Instagram](https://www.instagram.com/fearless_diamond/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Do
+- Build React components, fix CSS layout issues, and ensure cross-browser compatibility.
+- Test applications with Playwright, Vitest, and K6.
+- Implement GA4 & GTM setups for accurate analytics with GDPR compliance.
+- Automate workflows with webhooks and debug SQL queries.
+
+## 🌱 What I’m Learning
+- React.js, Node.js & Backend Development.
+- Open Source Collaboration.
+- 3D Graphics with Autodesk Maya & Blender.
+
+## 🧑‍💻 Tech Stack
+`JavaScript (ES6+)` | `TypeScript` | `React (Learning)` | `Node.js (Learning)`  
+`Playwright` | `Vitest` | `K6` | `SQL` | `GA4` | `GTM` | `GDPR` | `Webhooks` | `Apache` | `Shopify`
+
+## 🌍 Languages
+English | Polish
+
+---
+
+## 🤝 Let’s Collaborate!
+Open to contributing to Open Source, building projects, and growing with the developer community.  
+Let’s build something great together!
