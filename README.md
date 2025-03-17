@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 Tech Stack
 `JavaScript (ES6+)` | `TypeScript` | `React (Learning)` | `Node.js (Learning)`  
-`C++` | `CMake` | `Make` | `Ogre 3D`  
+`C++ (Learning)` | `CMake` | `Make` | `Ogre 3D`  
 `Playwright` | `Vitest` | `K6` | `SQL` | `GA4` | `GTM` | `GDPR` | `Webhooks` | `Apache` | `Shopify`
 
 ## 🌍 Languages
@@ -36,7 +36,7 @@ English | Polish
 
 ## 🧪 Current Side Projects
 - Exploring 3D game development with Ogre 3D engine
-- Learning how static (.a) and shared (.so) libraries work in Linux and how to compile them with CMake/Make
+- Learning how static (`.a`) and shared (`.so`) libraries work in Linux and how to compile them with CMake/Make
 
 ## 🛤️ My Journey
 
