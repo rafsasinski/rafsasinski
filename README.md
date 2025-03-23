@@ -5,7 +5,7 @@
 📍 London, UK
 
 ## 📬 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalsasinski/)](https://www.linkedin.com/in/rafalsasinski/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafsasinski)](https://www.linkedin.com/in/rafsasinski/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:git@rafsasinski.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fearless_diamond/)](https://www.instagram.com/fearless_diamond/)
 
