@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Rafal Sasinski!
-
-🚀 Transitioning from Web Support & QA to Full-Stack JavaScript Development.  
-💻 Frontend Developer | JavaScript | React | Node.js | C++  
-🌱 Exploring Open Source | Learning Full-Stack Development  
+🚀 Software Engineer & QA Professional with expertise in both worlds  
+💻 Frontend Developer | Vue.js | JavaScript | React | Node.js | C++  
+🌱 Exploring Open Source | Full-Stack Development | Test Automation  
 📍 London, UK
 
 ## 📬 How to Reach Me
@@ -13,44 +12,43 @@
 ---
 
 ## 🛠️ What I Do
-- Build React components, fix CSS layout issues, and ensure cross-browser compatibility.
-- Test applications with Playwright, Vitest, and K6.
-- Implement GA4 & GTM setups for accurate analytics with GDPR compliance.
-- Automate workflows with webhooks and debug SQL queries.
-- Develop simple C++ applications with CMake and Make build systems.
-- Experiment with 3D graphics using Ogre 3D engine.
+- Build reusable Vue.js components and React applications with responsive design
+- Lead Agile ceremonies including daily stand-ups and sprint planning
+- Test applications with Playwright (E2E), Vitest (Unit), and K6 (Load)
+- Implement GA4 & GTM setups with GDPR/CCPA compliance
+- Customize Shopify templates and integrate webhooks for e-commerce solutions
+- Debug cross-browser issues and ensure UI consistency across platforms
+- Automate workflows and troubleshoot SQL queries for data reporting
+- Develop simple C++ applications with CMake and Make build systems
 
 ## 🌱 What I'm Learning
-- React.js, Node.js & Backend Development.
-- Open Source Collaboration.
-- 3D Graphics with Autodesk Maya, Blender & Ogre 3D.
-- C++ fundamentals and game development basics.
+- Full-Stack Development with React.js, Node.js, and Express.js
+- Open Source Collaboration and Contributing
+- 3D Graphics with Autodesk Maya, Blender & Ogre 3D
+- C++ fundamentals and game development basics
 
 ## 🧑‍💻 Tech Stack
-`JavaScript (ES6+)` | `TypeScript` | `React (Learning)` | `Node.js (Learning)`  
+`JavaScript (ES6+)` | `TypeScript` | `Vue.js` | `React (Learning)` | `Node.js (Learning)`  
 `C++ (Learning)` | `CMake` | `Make` | `Ogre 3D`  
-`Playwright` | `Vitest` | `K6` | `SQL` | `GA4` | `GTM` | `GDPR` | `Webhooks` | `Apache` | `Shopify`
+`HTML5/CSS3` | `SASS` | `Responsive Design`  
+`Playwright` | `Vitest` | `K6` | `TDD` | `SQL` | `MongoDB`  
+`GA4` | `GTM` | `GDPR` | `Webhooks` | `Apache` | `Shopify`  
+`Git` | `Jira` | `Confluence` | `Agile/Scrum`
 
 ## 🌍 Languages
-English | Polish
+English | Polish | Japanese (Basic)
 
 ## 🧪 Current Side Projects
 - Exploring 3D game development with Ogre 3D engine
 - Learning how static (`.a`) and shared (`.so`) libraries work in Linux and how to compile them with CMake/Make
+- Building a personal portfolio site with React and Node.js
 
-## 🛤️ My Journey
-
-## 🛠️ Open Source Contributions
-
-## 🎸 Fun Fact
-I once created a fake CMS login page that displayed Blini Cat staring at pancakes when someone entered their credentials.  
-Security didn't improve, but team morale did. 🥞🐱
-
-## 🎮 Coding Hobbies
-When I'm not building web applications, I enjoy breaking things to understand how they work! My ADHD brain learns best through experimentation, which has led me to tinker with C++ as a beginner and explore the Ogre 3D game engine. Nothing teaches you programming concepts faster than debugging a spectacular crash! 🔥💻
-
----
+## 🎸 Fun Facts
+- I love breaking things to understand how they work—my ADHD brain learns best through experimentation!
+- I play guitar (3+ years) and enjoy cycling, running, and occasional beers
+- I once created a fake CMS login page that displayed Blini Cat staring at pancakes when someone entered their credentials. Security didn't improve, but team morale did! 🥞🐱
 
 ## 🤝 Let's Collaborate!
-Open to contributing to Open Source, building projects, and growing with the developer community.  
+Open to contributing to Open Source projects, building applications, and growing with the developer community.  
+Leveraging my dual expertise in software development and quality assurance to deliver robust solutions.  
 Let's build something great together!
