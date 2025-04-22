@@ -5,6 +5,7 @@
 
 ## About me
 
+- 🐍 Currently leveling up my Python skills from zero to hero
 - 🔭 By day: Building stuff with JavaScript, Vue.js, and occasionally fixing what others break
 - 🌱 By night: Learning C++, messing with React, and experimenting with 3D graphics
 - 📸 Amateur photographer who occasionally captures something worth sharing ([check my Instagram](https://www.instagram.com/fearless_diamond/))
@@ -16,6 +17,7 @@
 ## Things I code with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-2D2D2D?style=flat-square&logo=python&logoColor=FFE873)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -27,6 +29,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=cypress&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-729B1B?style=flat-square&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
